@@ -1,6 +1,6 @@
 ### Code generation
 
--  In parent pom file base directory write command:
+-  In parent pom file base directory write command
 
             `mvn clean install`
 
